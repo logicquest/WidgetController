@@ -1,2 +1,3 @@
-# WidgetController
-Sample code for managing widgets
+# widgetapp
+
+a [Sails](http://sailsjs.org) application
